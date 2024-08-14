@@ -1,4 +1,4 @@
-# Sexual Harassment Prediction using Random Forest Classifier
+# Women Safety System using Random Forest Classifier
 
 ## Project Overview
 
