@@ -42,3 +42,4 @@ The system consists of the following components:
 3. Run the system:
    ```bash
    python main.py
+4. This is the end of the project
